@@ -6,9 +6,11 @@ import PropTypes from 'prop-types';
 function Main(props) {
   return (
       <main className='main'>
+          
           <Section/>
-          aoriestnoarisetn
-
+          <Section/>
+          <Section/>
+          
       </main>
     )
 }

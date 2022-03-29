@@ -1,0 +1,15 @@
+  header {
+      &-nav {
+          width: 15rem;
+          margin: 2rem;
+          display: flex;
+          justify-content: space-between;
+
+          &-link {
+              text-decoration: none;
+              color: #DDA15E;
+              font-size: 1.5rem;
+              font-weight: 700;
+          }
+      }
+  }

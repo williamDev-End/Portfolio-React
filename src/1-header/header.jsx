@@ -1,5 +1,6 @@
 import React from "react";
 import './header.scss';
+import './1-nav/nav.scss';
 import logo from './logo/logo.svg';
 import Nav from './1-nav/nav';
 import PropTypes from "prop-types";

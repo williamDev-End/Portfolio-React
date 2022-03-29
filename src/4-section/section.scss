@@ -1,0 +1,21 @@
+.main {
+    &-section {
+        border: 1px solid black;
+        margin: 2rem;
+        max-width: 33%;
+        &-title {
+           font-size: 2rem; 
+           background-color: blue;
+        }
+        &-article {
+            background-color: blueviolet;
+            &-title{
+                font-size: 3rem;
+
+            }
+            &-p{
+                font-size: 2rem;
+            }
+        }
+    }
+}
